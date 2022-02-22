@@ -10,7 +10,7 @@ For this analysis, we used the following breakdown:
 * Load the data to a PostgreSQL Movie Database.
 
 ### Resources
-* Data Source wikipedia-movies.json, movies_metadata.csv, ratings.csv
+* Data Sources: wikipedia-movies.json, movies_metadata.csv, ratings.csv
 * Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
 ## Results
