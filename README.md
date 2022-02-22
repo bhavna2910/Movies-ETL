@@ -4,10 +4,10 @@ The scope of this project required us to create an automated pipeline that takes
 
 For this analysis, we used the following breakdown:
 
-** Write an ETL function to read three data files
-** Extract and transform the Wikipedia data
-** Extract and transform the Kaggle and rating data
-** Load the data to a PostgreSQL Movie Database.
+* Write an ETL function to read three data files
+* Extract and transform the Wikipedia data
+* Extract and transform the Kaggle and rating data
+* Load the data to a PostgreSQL Movie Database.
 
 ### Resources
 *Data Source*: wikipedia-movies.json, movies_metadata.csv, ratings.csv
